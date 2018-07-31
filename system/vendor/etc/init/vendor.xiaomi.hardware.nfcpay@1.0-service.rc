@@ -1,0 +1,4 @@
+service vendor.xiaomi.hardware.nfcpay /vendor/bin/hw/vendor.xiaomi.hardware.nfcpay@1.0-service
+    class hal
+    user system
+    group system
